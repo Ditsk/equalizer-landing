@@ -387,5 +387,17 @@ body {
         gap: 1rem;
     }
 
+    /* hover effects */
+
+    .svg-social path:hover {
+        fill: #FA7453;
+    }
     
+    .button-ios:hover {
+        background-color: #66E2DC;
+    }
+
+    .button-android:hover {
+        background-color: #FFB964;
+    }
 }
